@@ -54,6 +54,7 @@ nav a {
     margin-left: 4rem;
     font-weight: 900;
     transition: 0.3s ease;
+     text-decoration: none;
 }
 
 nav a:hover,
